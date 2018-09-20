@@ -1,0 +1,24 @@
+[
+  {
+    "modid":"minefantasy2",
+    "name":"FantasyCraft II EbK",
+    "description":"GET READY FOR GREATEST ADVENTURE OF ALL THE TIME",
+    "version":"",
+    "mcversion":"${mcversion}",
+    "url":"",
+    "updateUrl":"",
+    "authors":["Kacpros"]
+    ],
+    "credits":"Kacpros",
+    "logoFile":"",
+    "screenshots":[
+
+    ],
+    "dependencies":[
+      "MineTweaker3",
+      "NotEnoughItems",
+      "BuildCraft|Core",
+      "CoFHCore"
+    ]
+  }
+]
